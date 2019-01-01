@@ -1,3 +1,6 @@
+
 Print(“ hellow world;”)
 Print(“hellow other;”)
 Print(“hellow them;”)
+print("hi;")
+
